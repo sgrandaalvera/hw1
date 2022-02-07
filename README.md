@@ -1,37 +1,22 @@
 
 import java.util.*;
 
-public class Homework2
+public class HomeworkSa
 
 {
 
-  public static void main(String[] args)
+public static void main(String[] args)
 
-  {
+{
 
-   
+int num1=5;
 
-   
+int num2=10;
 
+int sum=num1+num2;
 
+System.out.print("The sum of "+ num1 +" and "+num2+ " is: "+ sum);
+}
 
-    String name="Santiago Granda";
-
-    
-
-
-
-    String email="sgranda@nyit.edu";
-
- 
-    int id= 1253039;
-
-   
-
-    System.out.println("My name is: "+name+"\nMy email is: "+email+"\nMy id is: "+id);
-
-  
-
-  }
-
+}
 }
